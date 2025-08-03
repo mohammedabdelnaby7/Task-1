@@ -8,11 +8,4 @@ print real invoices
 int x = 20;
 int y = 30;
 Console.WriteLine($"Equation : {x} + {y} = {x + y:c}");
-ء
-سs
-ل
-ل
-لا
-ل
-لانك
-لانك 
+ 
